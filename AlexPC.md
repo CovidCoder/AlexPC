@@ -13,6 +13,6 @@
 | **(9) Power Supply** | [CORSAIR RM Series (2021), White, RM850, 850 Watt, 80 Plus Gold Certified, Fully Modular Power Supply](https://www.amazon.com/dp/B093RCJRNS?tag=pcpapi-20&linkCode=ogi&th=1) |
 | **(10) Case Fans** | [CORSAIR iCUE SP120 RGB ELITE Performance 120mm PWM Triple Fan Kit with iCUE Lighting Node CORE - White](https://www.amazon.com/dp/B08XY2QNJ5?tag=pcpapi-20&linkCode=ogi&th=1) |
 
-All parts can be found on Amazon.com *EXCEPT: (2) CPU Cooler*. The CPU Cooler can be bought from NewEgg.com.
+All parts can be found on Amazon.com ***EXCEPT: (2) CPU Cooler***. The CPU Cooler can be bought from NewEgg.com.
 
 **-Ty**
